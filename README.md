@@ -1,0 +1,4 @@
+LenovoImageShop
+===============
+
+Automatic segment pills
